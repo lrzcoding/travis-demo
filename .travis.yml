@@ -7,5 +7,5 @@ jobs:
       name: "Integration Tests"
     - stage: deploy
       name: "Deploy to GCP"
-      script: echo "`data` Deploy to GCP
+      script: echo "`date` Deploy to GCP
 
